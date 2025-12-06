@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { users, env } from '../../utils/testdata';
 
-test('Login and Logout', async ({ page }) => {
+test('Login , Add and Buy Product, Logout', async ({ page }) => {
   await page.goto(env.baseURL);
 
   await expect(page).toHaveTitle(/Swag Labs/);
