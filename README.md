@@ -20,7 +20,7 @@ This project tests basic flows on `saucedemo.com` using a Page Object Model stru
 - Smoke
 - E2E 
 
-## ▶️ Executing on Gitlab CI
+## ▶️ Executing using GitHub Actions
 
 Install dependencies:
 
