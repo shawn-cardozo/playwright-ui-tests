@@ -15,23 +15,3 @@ This project tests basic flows on `saucedemo.com` using a Page Object Model stru
 
 ---
 
-## Initial tests include
-
-- Smoke
-- E2E 
-
-## ▶️ Executing using GitHub Actions
-
-Install dependencies:
-
->> npm ci
-
-Install Playwright browsers
-
->> npx playwright install --with-deps
-
-Run Playwright tests
-
->> npx playwright test
-
-
