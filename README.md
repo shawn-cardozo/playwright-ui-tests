@@ -15,9 +15,3 @@ This project tests basic flows on `saucedemo.com` using a Page Object Model stru
 
 ---
 
-## ▶️ Getting Started
-
-Install dependencies:
-
-```bash
-npm install
